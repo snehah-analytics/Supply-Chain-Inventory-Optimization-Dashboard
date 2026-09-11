@@ -186,7 +186,7 @@ Potential extensions for the project include:
 
 The repository includes the Power BI project file:
 
-`supply_chain_bi.pbix`
+[Download the Power BI Project (.pbix)](supply_chain_bi.pbix).
 
 Open the file using **Power BI Desktop** to explore the dashboard, DAX measures, data model, and interactive filters.
 
