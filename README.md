@@ -41,16 +41,18 @@ The dashboard helps answer questions such as:
 
 ### 1️⃣ Data Preparation & Cleaning
 
-The raw dataset was prepared using **Power Query**.
+The CSV included in this repository is the **raw input dataset** used for the project.
 
-Key data preparation activities included:
+The dataset was intentionally kept in its original state to demonstrate the complete data-analysis workflow. All data cleaning and transformation were performed inside **Power Query in Power BI** before the data was used for modeling and visualization.
 
-- Cleaning and transforming fields
+Key preparation steps included:
+
 - Handling missing values
 - Reviewing duplicate records
-- Validating calculated fields
 - Standardizing data types
-- Preparing the dataset for reporting and analysis
+- Cleaning and transforming fields
+- Validating calculated fields
+- Preparing the data for analysis
 
 ### 2️⃣ Data Modeling & DAX
 
